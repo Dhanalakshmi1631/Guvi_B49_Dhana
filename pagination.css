@@ -70,7 +70,7 @@ h1{
 .control:not(.disabled):hover,.pageNumbers a:hover{
     background-color: rgb(9, 9, 75);
     color: white;
-}
+ }
 a.active{
     background-color: rgb(9, 9, 75);
     color: white;

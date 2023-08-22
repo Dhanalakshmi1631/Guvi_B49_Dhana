@@ -44,7 +44,7 @@ const controlButtonsStatus = () =>{
     }
     else{
         enableButton(nextButton);
-    }
+     }
 };
 
 const handleActivePageNumber = () =>{
